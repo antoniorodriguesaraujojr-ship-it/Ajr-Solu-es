@@ -1,0 +1,41 @@
+Ajr Soluções 
+. Estrutura sugerida para o site da Ajr Soluções
+1. Home / Início
+Imagem de destaque (ex: circuito de câmeras, segurança)
+
+Frase de impacto:
+“Protegendo o que é mais importante para você.”
+
+2. Sobre Nós
+História da empresa
+
+Missão, visão e valores
+
+Diferenciais da Ajr Soluções
+
+3. Serviços
+Instalação de câmeras de segurança (CFTV)
+
+Alarmes e sensores
+
+Cercas elétricas
+
+Automação de portões
+
+Monitoramento remoto
+
+Manutenção e suporte
+
+4. Portfólio / Clientes
+Fotos de projetos realizados
+
+Empresas ou residências atendidas
+
+5. Contato
+Formulário de contato
+
+Botão de WhatsApp
+
+Endereço, e-mail e telefone
+
+Mapa (Google Maps)
